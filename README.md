@@ -37,8 +37,14 @@ Instalación Babel-Node para usar el transpilador de babel del lado del servidor
     npm install --save-dev @babel/core @babel/node
 ```
 
+Instalación de Nodemon para testeo de la App
 
-
+```
+    npm install --save-dev nodemon
+```
 ## Paquetes que deben estar preinstalados 
 
-[Instalación MongoDB](https://www.digitalocean.com/community/tutorials/como-instalar-mongodb-en-ubuntu-18-04-es)
+ - Instalar NodeJS
+ - Instalar NPM
+ - Instalar MongoDB
+ - [Instalación MongoDB](https://www.digitalocean.com/community/tutorials/como-instalar-mongodb-en-ubuntu-18-04-es)
